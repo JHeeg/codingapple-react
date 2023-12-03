@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Helog/static/css/main.e8991c58.css",
+    "main.js": "/Helog/static/js/main.38f65812.js",
+    "static/js/787.51d464e6.chunk.js": "/Helog/static/js/787.51d464e6.chunk.js",
+    "index.html": "/Helog/index.html",
+    "main.e8991c58.css.map": "/Helog/static/css/main.e8991c58.css.map",
+    "main.38f65812.js.map": "/Helog/static/js/main.38f65812.js.map",
+    "787.51d464e6.chunk.js.map": "/Helog/static/js/787.51d464e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8991c58.css",
+    "static/js/main.38f65812.js"
+  ]
+}
